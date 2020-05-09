@@ -1,6 +1,9 @@
 # SteamAudio-JNA
 JNA Java Bindings for Steam Audio
 
+## Example
+
+A simple example can be found in [PhononSampleAplicationTest.java](https://github.com/Klawru/SteamAudio-JNA/blob/master/src/test/java/ru/klaw/steamaudio/PhononSampleAplicationTest.java)
 
 ## License
 
