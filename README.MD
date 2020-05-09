@@ -1,5 +1,5 @@
 # SteamAudio-JNA
-JNA Java Bindings for Steam Audio
+JNA Java Bindings for Steam Audio 2.0-beta.18
 
 ## Example
 
